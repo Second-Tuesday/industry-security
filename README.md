@@ -2,12 +2,14 @@
 
 ![케듀아이](http://www.kedui.com/images/logo.gif)
 * 서브노트
-	[1. 관리적보안](https://github.com/Second-Tuesday/industry-security/files/1071616/ISE1.pdf)
-	[2. 물리적보안](https://github.com/Second-Tuesday/industry-security/files/1071622/ISE2.pdf)
-	[3. 기술적보안](http://https://github.com/Second-Tuesday/industry-security/files/1071628/ISE3.pdf)
-	[4. 보안사고대응](http://https://github.com/Second-Tuesday/industry-security/files/1071630/ISE4.pdf)
-	[5. 보안지식경영](https://github.com/Second-Tuesday/industry-security/files/1071633/ISE5.pdf)
-
+	1. 관리적보안[▷Download](https://github.com/Second-Tuesday/industry-security/files/1071616/ISE1.pdf)
+	2. 물리적보안 [▷Download](https://github.com/Second-Tuesday/industry-security/files/1071622/ISE2.pdf)
+	3. 기술적보안 [▷Download](http://https://github.com/Second-Tuesday/industry-security/files/1071628/ISE3.pdf)
+	4. 보안사고대응 [▷Download](http://https://github.com/Second-Tuesday/industry-security/files/1071630/ISE4.pdf)
+	5. 보안지식경영 [▷Download](https://github.com/Second-Tuesday/industry-security/files/1071633/ISE5.pdf)
+![한국산업기술보호협회](http://www.kaits.or.kr/images/common/logo_01.png)
+* 산업보안관리사 자격검정시험 관련 개정 법령 및 자료 안내
+	[▷Download](http://www.kaits.or.kr/file/notice/1662/1/download.do?)
 ## Chapter 1. 관리적보안
 ### Part 1. 산업보안관계법
 #### ① 산업보안관게법의 개념과 체계
