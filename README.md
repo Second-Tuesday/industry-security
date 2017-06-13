@@ -1,5 +1,10 @@
 # 산업보안관리사
 
+![한국산업기술보호협회](http://www.kaits.or.kr/images/common/logo_01.png)
+* [**제1회(2017-1회) 국가공인 산업보안관리사 자격검정시험 (완화/정규검정) 시행공고**](http://www.kaits.or.kr/information/notice/detail.do?id=1581)
+* 산업보안관리사 자격검정시험 관련 개정 법령 및 자료 안내 	[▷Download](http://www.kaits.or.kr/file/notice/1662/1/download.do?)
+* 산업보안관리사 자격검정시험 참고용 출제문제 [▷Download](http://www.kaits.or.kr/file/notice/1663/1/download.do?)
+
 ![케듀아이](http://www.kedui.com/images/logo.gif)
 * 서브노트
 	1. 관리적보안[▷Download](https://github.com/Second-Tuesday/industry-security/files/1071616/ISE1.pdf)
@@ -8,9 +13,7 @@
 	4. 보안사고대응 [▷Download](http://https://github.com/Second-Tuesday/industry-security/files/1071630/ISE4.pdf)
 	5. 보안지식경영 [▷Download](https://github.com/Second-Tuesday/industry-security/files/1071633/ISE5.pdf)
 
-![한국산업기술보호협회](http://www.kaits.or.kr/images/common/logo_01.png)
-* 산업보안관리사 자격검정시험 관련 개정 법령 및 자료 안내
-	[▷Download](http://www.kaits.or.kr/file/notice/1662/1/download.do?)
+    
 ## Chapter 1. 관리적보안
 ### Part 1. 산업보안관계법
 #### ① 산업보안관게법의 개념과 체계
