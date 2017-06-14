@@ -9,8 +9,8 @@
 * 서브노트
 	1. 관리적보안[▷Download](https://github.com/Second-Tuesday/industry-security/files/1071616/ISE1.pdf)
 	2. 물리적보안 [▷Download](https://github.com/Second-Tuesday/industry-security/files/1071622/ISE2.pdf)
-	3. 기술적보안 [▷Download](http://https://github.com/Second-Tuesday/industry-security/files/1071628/ISE3.pdf)
-	4. 보안사고대응 [▷Download](http://https://github.com/Second-Tuesday/industry-security/files/1071630/ISE4.pdf)
+	3. 기술적보안 [▷Download](https://github.com/Second-Tuesday/industry-security/files/1071628/ISE3.pdf)
+	4. 보안사고대응 [▷Download](https://github.com/Second-Tuesday/industry-security/files/1071630/ISE4.pdf)
 	5. 보안지식경영 [▷Download](https://github.com/Second-Tuesday/industry-security/files/1071633/ISE5.pdf)
 
     
